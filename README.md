@@ -1,2 +1,3 @@
 # Tarek-B.
-My personal repository.
+Hello, 
+I am Tarek an aerospace student at the TU Darmstadt.
